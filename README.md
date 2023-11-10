@@ -60,9 +60,9 @@ This project provided an opportunity to explore and compare architectures for im
 Moreover, we could have delved further into data augmentation techniques, which are essential in boosting the performance of deep learning models. By applying various data augmentation techniques, such as random rotation, flipping, and shifting, the model becomes more robust and accurate. Furthermore, it is essential to have a thorough understanding of the dataset used in deep learning models. A larger dataset often leads to better performance, but a small dataset can also produce good results if it is balanced, diverse, and representative of the real-world scenario. Before training the model, it is necessary to pre-process the data carefully, by dividing it into training, validation, and testing sets, and applying normalization and scaling when necessary.<br>
 Finally, we would like to mention the importance of troubleshooting common errors that arise during deep learning training. Due to the complexity of deep learning models, errors in training and testing are common. Therefore, debugging the code and identifying the root cause of the error is crucial to achieving the best results. Overall, this project provided us with a great opportunity to explore and compare different architectures for image segmentation, and we have learned valuable lessons in hyperparameter tuning, data augmentation, dataset preparation, and error troubleshooting. By applying these techniques and methods, we can continue to improve our deep learning skills and implement more robust and accurate models in future projects.
 
-CAM101 Dataset:
-Julien Fauqueur, Gabriel Brostow, Roberto Cipolla, 
-   "Assisted Video Object Labeling By Joint Tracking of Regions and Keypoints", 
-   IEEE International Conference on Computer Vision (ICCV'2007) 
-   Interactive Computer Vision Workshop. Rio de Janeiro, Brazil, October 2007
-http://www.eng.cam.ac.uk/~jf330/CamSeq01/
+CAM101 Dataset:<br>
+Julien Fauqueur, Gabriel Brostow, Roberto Cipolla, <br>
+   "Assisted Video Object Labeling By Joint Tracking of Regions and Keypoints", <br>
+   IEEE International Conference on Computer Vision (ICCV'2007) <br>
+   Interactive Computer Vision Workshop. Rio de Janeiro, Brazil, October 2007<br>
+http://www.eng.cam.ac.uk/~jf330/CamSeq01/<br>
